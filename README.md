@@ -10,4 +10,7 @@ npm install
 
 # Start the development mode with live reload
 npm run dev
+
+# Build the application for production
+npm run build
 ```
